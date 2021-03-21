@@ -3,8 +3,12 @@
 # Project Name
 
 > One paragraph statement about the project.
+> 
+>In this project, I  implemented the best HTML and CSS practices.
 
-![screenshot](./app_screenshot.png)
+| Contact page | Homepage|
+| -- | -- |
+| ![](./images/screen1.png) | ![](./images/screen2.png)|
 
 Additional description about the project and its features.
 
@@ -49,11 +53,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/Shoira03)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
-👤 **Author2**
+  👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+  - GitHub: [@githubhandle](https://github.com/githubhandle)
+  - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+  - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
